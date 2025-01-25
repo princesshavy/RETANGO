@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'Retango.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'retango',
+        'NAME': 'hvh-retango',
         'USER':'root',
         'PASSWORD':'',
         'HOST': 'localhost',
